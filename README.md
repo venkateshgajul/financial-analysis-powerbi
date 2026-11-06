@@ -2,7 +2,7 @@
 
 An interactive 7-page Power BI dashboard analyzing the income statements, balance sheets and cash flows of ~4,400 companies (FY2016 to FY2019).
 
-![Executive Overview](Screenshots/page1_overview.png)
+
 
 ## Objective
 Give analysts a single view of company performance: revenue and profit trends, cash flow health, balance sheet risk, and which companies show consistent growth.
